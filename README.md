@@ -3,15 +3,15 @@
 
 <h3> 
     English |
-    <a href="https://github.com/relaxewdy/HP-EliteBook-840-G7-Hackintosh/blob/main/README-tr.md">Türkçe</a>
+    <a href="https://github.com/yusfklncc/HP-EliteBook-840-G5-Hackintosh/blob/main/README-tr.md">Türkçe</a>
 </h3>
 
-<img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
+<img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="250px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
-[![macOS](https://img.shields.io/badge/macOS-11.2-orange)](https://www.apple.com/tr/macos/big-sur/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-11.6-orange)](https://www.apple.com/tr/macos/big-sur/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.3-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/relaxewdy/HP-EliteBook-840-G7-Hackintosh/releases)
 
 ## Screenshot
@@ -27,33 +27,39 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 | **HP** | Detail                                                  |
 | ------------------- | ------------------------------------------- |
-| Model Name      | HP Elitebook 840 G7      |
-| CPU              | Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz (max 4.20Ghz) Comet Lake             |
-| RAM           | 8 GB 2400 MHz DDR4    |
+| Model Name      | HP Elitebook 840 G5      |
+| CPU              | Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz (max 3.90Ghz) Kaby Lake R             |
+| RAM           | 32 GB 2400 MHz DDR4    |
 | Graphic Card | Intel® UHD Graphics 620                     |
 | Wi-Fi             | BCM94360CS2 |
-| Sound       | Realtek ALC285                       |
+| Sound       | Realtek ALC                       |
 
 ## What are working
 
-- Turbo boost and CPU frequency stage.
-- Intel® UHD Graphics 620
-  - Brightness control
-- Audio Realtek ALC285 
-  - layout-id: `21`
-  - 3.5mm Combojack
-- BCM94360CS2 Wi-Fi and Bluetooth (Airdrop, Handoff..)
-- USB 3.0 and Type-C Ports (Port Mapping with ThunderBolt 3)
-- Touchpad (14 gestures are working)
-- Battery status
-- Camera
-- Fn shortcut keys
+| **Details**                                |                                    |
+| -----------------------------------  | -------- |
+|  Turbo boost and CPU frequency stage |  ✅  |
+|  Intel UHD Graphics 620              |  ✅  |
+|  Brightness control                  |  ✅  |
+|  HDMI                                |  ✅  |
+|  Audio Conexant Realtek ALC          |  ✅  |
+|  Intel Ethernet                      |  ✅  | 
+|  BCM94360CS2 Wi-Fi and Bluetooth, Airdrop, Handoff, SideCar, iMessage...         |  ✅  |
+|  USB 3.0 and Type-C (with Port Map)        |  ✅  |
+|  Touchpad (14 gestures are working)   |  ✅  |
+|  Battery status   |  ✅  |
+|  Camera   |  ✅  |
+|  Fn shortcut keys   |  ✅  |
 
 ## What aren't working
 
-- Sleep / Wake
-- Built-in Microphone
-- Fingerprint
- 
+|  S3 Sleep / Wake   |    |
+|  S4 Hibernation / Wake   |    |
+
+
+## What You Have to Do
+
+- SMBIOS Settings
+
 With OpenCore Configrator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information.
-  - MacBook Pro 16.3
+  - MacBookPro16,3
