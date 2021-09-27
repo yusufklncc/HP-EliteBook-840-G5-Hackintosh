@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="10px" alt="preview"> macOS on HP EliteBook 840 G5
+# <img align="right" src="https://github.com/yusfklncc/HP-EliteBook-840-G5-Hackintosh/blob/main/Apple.png" width="50px" alt="preview"> macOS on HP EliteBook 840 G5
 
 <h3> 
     English |
