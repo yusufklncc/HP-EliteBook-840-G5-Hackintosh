@@ -53,7 +53,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 ## What aren't working
 
-| ****                                |                                    |
+|                                |                                    |
 | -----------------------------------  | -------- |
 |  S3 Sleep / Wake   |    |
 |  S4 Hibernation / Wake   |    |
