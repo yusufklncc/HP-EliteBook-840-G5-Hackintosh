@@ -2,8 +2,7 @@
 # <img align="left" src="https://github.com/yusfklncc/HP-EliteBook-840-G5-Hackintosh/blob/main/Apple.png" width="30px" alt="preview">macOS on HP EliteBook 840 G5
 
 <h3> 
-    English |
-    <a href="https://github.com/yusfklncc/HP-EliteBook-840-G5-Hackintosh/blob/main/README-tr.md">Türkçe</a>
+    English
 </h3>
 
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="250px" alt="preview">
