@@ -42,7 +42,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
 |  Intel UHD Graphics 620              |  ✅  |
 |  Brightness control                  |  ✅  |
 |  HDMI                                |  ✅  |
-|  Audio Conexant          |  ✅  |
+|  Audio Conexant CX8200         |  ✅  |
 |  Intel Ethernet                      |  ✅  | 
 |  BCM94360CS2 Wi-Fi and Bluetooth, Airdrop, Handoff, SideCar, iMessage...         |  ✅  |
 |  USB 3.0 and Type-C (with Port Map)        |  ✅  |
@@ -53,7 +53,6 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
 
 ## What aren't working
 
-|                                |                                    |
 | -----------------------------------  | -------- |
 |  S3 Sleep / Wake   |    |
 |  S4 Hibernation / Wake   |    |
