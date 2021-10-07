@@ -10,7 +10,7 @@
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
 
 [![macOS](https://img.shields.io/badge/macOS-11.6-orange)](https://www.apple.com/tr/macos/big-sur/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.3-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.4-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/relaxewdy/HP-EliteBook-840-G5-Hackintosh/releases)
 
 ## Screenshot
@@ -62,5 +62,5 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
 
 - SMBIOS Settings
 
-With OpenCore Configrator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information.
+With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information.
   - MacBookPro16,3
