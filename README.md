@@ -55,10 +55,9 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
 |  S3 Sleep / Wake   | ❌  |
 |  S4 Hibernation / Wake   |  ❌  |
 
-# What You Have to Do
+# What You Have to Do?
 |                                 |                                    |
 | -----------------------------------  | -------- |
 |  SMBIOS Settings  | ⚠️ |
-|  Rename config    | ⚠️ |
 
 With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.3
