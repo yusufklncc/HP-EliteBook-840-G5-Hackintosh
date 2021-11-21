@@ -1,10 +1,6 @@
 <!-- omit in toc -->
 # macOS on HP EliteBook 840 G5
 
-<h3> 
-    English
-</h3>
-
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="250px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
