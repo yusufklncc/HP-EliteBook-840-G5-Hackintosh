@@ -121,9 +121,9 @@ SSDT | Info | Status
 [SSDT-PNLF.aml](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html) | Adds Backlight Control for Laptop Screens. | [Functional]
 [SSDT-CPD0.aml](https://github.com/5T33Z0/OC-Little-Translated/tree/main/01_Adding_missing_Devices_and_enabling_Features/OCI2C-GPIO_Patch) | Enables GPIO device. [Functional]
 [SSDT-BATT.aml](https://dortania.github.io/OpenCore-Post-Install/laptop-specific/battery.html#battery-status) | Fixes the battery status indicator. | [Functional]
-SSDT-SET-STAS.aml | ACPI patch for newer BIOS versions
+SSDT-SET-STAS.aml | ACPI patch for newer BIOS versions. | [Functional]
 [SSDT-ALS0](https://github.com/5T33Z0/OC-Little-Translated/tree/main/01_Adding_missing_Devices_and_enabling_Features/Ambient_Light_Sensor_(SSDT-ALS0)) | Adds a fake Ambient Light Sensor (SSDT-ALS0) or enables an existing one in macOS (SSDT-ALSD). | [Functional]
-SSDT-TB3.aml | Thunderbolt 3 driver assignment
+SSDT-TB3.aml | Thunderbolt 3 driver assignment. | [Functional]
       
 ## Credits
   
