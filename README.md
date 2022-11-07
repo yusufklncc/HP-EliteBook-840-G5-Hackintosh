@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/OpenCore-0.8.5-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/HP-EliteBook-840-G5-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
+<a href="https://github.com/yusufklncc/HP-EliteBook-840-G5-Hackintosh/issues"> 
+  <img src="https://img.shields.io/github/issues/yusufklncc/HP-EliteBook-840-G5-Hackintosh" width="145"/> </a>
 </p>
 <p align="center">
 <a href="https://t.me/yusufklncc">
@@ -21,6 +23,8 @@
   <img src="https://img.shields.io/badge/-@yusufklncc-red?logo=YouTube&logoColor=white" width="150"/> </a>
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
+<a href="https://www.buymeacoffee.com/yusufklncc">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a>
 
 ## Contents
   - [Original Hardware](https://github.com/yusufklncc/HP-EliteBook-840-G5-Hackintosh#original-hardware--)
