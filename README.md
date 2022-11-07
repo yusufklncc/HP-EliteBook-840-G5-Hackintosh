@@ -92,7 +92,7 @@ SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settin
   
 ## Kexts Used 
  
-Kext | Info 
+Name | Info 
 :---------|:---------
 [Lilu](https://github.com/acidanthera/Lilu) | [Global] An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
 [VirtualSMC](https://github.com/acidanthera/VirtualSMC) | [SMC] Advanced Apple SMC emulator in the kernel. Requires Lilu for full functioning.
@@ -117,7 +117,7 @@ Kext | Info
   
 ## SSDTs Used
   
-SSDT | Info | Status
+Name | Info | Status
 :---------|:---------|:---------
 [SSDT-PLUG.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html#fixing-power-management-ssdt-plug) | Allow the kernel's XCPM(XNU's CPU Power Management) to manage CPU's power management. | [Functional]
 [SSDT-EC-USBX.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html#fixing-embedded-controller-ssdt-ecusbx) | Adds a fake Embedded Controller (SSDT-EC) and enables USB Power Management (SSDT-EC-USBX). | [Functional]
