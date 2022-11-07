@@ -26,7 +26,7 @@
 <a href="https://www.buymeacoffee.com/yusufklncc">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a>
 
-## Contents
+## Table of Contents
   - [Original Hardware](https://github.com/yusufklncc/HP-EliteBook-840-G5-Hackintosh#original-hardware--)
   - [macOS Update History](https://github.com/yusufklncc/HP-EliteBook-840-G5-Hackintosh#macos-update-history)
   - [What's working](https://github.com/yusufklncc/HP-EliteBook-840-G5-Hackintosh#whats-working--)
